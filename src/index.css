@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #ffe4e1;
+  /* valentine-bg */
+  font-family: 'Comic Sans MS', 'Chalkboard SE', sans-serif;
+  /* Playful font */
+  overflow: hidden;
+  /* Prevent scrolling from running buttons */
+}
